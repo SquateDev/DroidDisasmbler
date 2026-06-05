@@ -66,4 +66,3 @@ python droid_disassembler.py
 MIT License. См. [LICENSE](LICENSE).
 
 *Создано при поддержке SquateDev*
-```
